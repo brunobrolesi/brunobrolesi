@@ -1,6 +1,6 @@
 ### Hi, my name is Bruno Brolesi. Welcome to my GitHub! 👋
 
-- 💻 I'm Full Stack Developer.
+- 💻 I'm a Full Stack Developer, but early in my career I worked with hardware development and microcontroller programming.
 - 🤖 Electronic Engineering Student at Universidade Tecnológica Federal do Paraná.
 - 💚 Full Stack Development Student at Trybe.
 
