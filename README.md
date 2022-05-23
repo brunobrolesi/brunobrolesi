@@ -2,7 +2,7 @@
 
 - 💻 I'm a Full Stack Developer, but early in my career I worked with hardware development and microcontroller programming.
 - 🤖 Electronic Engineering Student at Universidade Tecnológica Federal do Paraná.
-- 💚 Full Stack Development Student at Trybe.
+- 💚 Full Stack Development Graduated at Trybe.
 
 <div>
   <a href="https://github.com/rafaballerini">
